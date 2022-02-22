@@ -1,0 +1,1266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Book of merry riddles very meet and delightful for youth to try their wits.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28781</idno>
+            <idno type="STC">Wing B3711</idno>
+            <idno type="STC">ESTC R1758</idno>
+            <idno type="EEBO-CITATION">12075924</idno>
+            <idno type="OCLC">ocm 12075924</idno>
+            <idno type="VID">53600</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28781)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53600)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 860:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Book of merry riddles very meet and delightful for youth to try their wits.</title>
+               </titleStmt>
+               <extent>[24] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.C. for J. Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Riddles.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53600:1" rendition="simple:additions"/>
+            <p>A BOOK Of Merry RIDDLES: Very meet and Delightful for Youth to try their WITS.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ndon,</hi> Printed by <hi>E. C.</hi> for <hi>J. Wright,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Globe in <hi>Little-Brittain.</hi> 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="riddle_book">
+            <pb facs="tcp:53600:2"/>
+            <pb facs="tcp:53600:2"/>
+            <head>DIVERS PRETTY RIDDLES, With other Dark SENTENCES.</head>
+            <sp>
+               <speaker>Queſtion,</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Hat Iudg on the Earth did give the greateſt ſentence when he did live?</p>
+            </sp>
+            <sp>
+               <speaker>Sol. Pilate</speaker>
+               <p>when he pro<g ref="char:EOLhyphen"/>nounced ſentence of Con<g ref="char:EOLhyphen"/>demnation againſt Chriſt Ieſus.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I maid there was that married a man</l>
+                  <l>By whom was many children gotten:</l>
+                  <l>Yet all they died and went away,</l>
+                  <l>Before the mother as begotten:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It was <hi>Eve</hi> and her children, who all died ere ſhe was begotten, for ſhe was neither born nor begotten, but created.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What bloody tyrant was that wight,</l>
+                  <pb facs="tcp:53600:3"/>
+                  <l>That with a murdering blow,</l>
+                  <l>The fourth part of the Earth did ſtay,</l>
+                  <l>Which thou canſt tell I trow?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol</speaker>
+               <p>
+                  <hi>Cain</hi> in ſlaying of his brother <hi>Abel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Foul is my fault that féeds me full</l>
+                  <l>To gorge on mother ſtill:</l>
+                  <l>I went abroad to ſéek my flre,</l>
+                  <l>And my wives ſon I do deſire:</l>
+                  <l>Such an one the man muſt be,</l>
+                  <l>As the Son of man to me.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>
+                  <hi>Joſeph</hi> went to ſéek Chriſt, whom he found in the Temple, Preaching a<g ref="char:EOLhyphen"/>mongſt thoſe of the Synagogue.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What was that God commanded to be done, and was not done, and yet God was well pleaſed?</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>The ſacrificing of <hi>Iſaac.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>In what place crew the Cock ſo loud that all men heard it out of doubt.</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>In the Ark of <hi>Noah.</hi>
+               </p>
+               <l>
+                  <hi>Q.</hi> Iudg of me by perfect skill,</l>
+               <l>My youths reſtored by caſting bill.</l>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>An Eagle.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>When I am old, I caſt my skin,</l>
+                  <l>Whereby I do come young again.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A Snake.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>White <hi>I</hi> am and black withal,</l>
+                  <l>I have eyck yet am blind:</l>
+                  <l>Eain nor loſſe not without brawl,</l>
+                  <pb facs="tcp:53600:3"/>
+                  <l>I do procure as you ſhall find.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Dice.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I wound the heart &amp; pleaſe the eye,</l>
+                  <l>Tell me what I am by and by?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Beauty.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I am within as white as Snow,</l>
+                  <l>Without as gréen as her vs that grow:</l>
+                  <l>I am higher than a houſe,</l>
+                  <l>And yet am leſſer than a Mouſe;</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A Walnut hanging on a trée.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What Mother a child doth beget,</l>
+                  <l>And ſhe of it is got again?</l>
+                  <l>Which although ſtrange ſéems to be,</l>
+                  <l>Yet it is true I tell you plain.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Water turning to jee, and jee a<g ref="char:EOLhyphen"/>gain turning to water.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>'Tis black without &amp; black within</l>
+                  <l>And hath four corners as I win.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A dry turſe.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>
+                     <hi>Oedipus</hi> that while lome haſt reſol<g ref="char:EOLhyphen"/>ved a grear doubt.</l>
+                  <l>Vnfold this Riddle unto me that now I ſhall put out,</l>
+                  <l>When I did live, then was I dumb, and yet did yield no harmony:</l>
+                  <l>But being dead, I do afford moſt pleaſant melody.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Any muſick inſtrument that is of wood.</p>
+               <pb facs="tcp:53600:4"/>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Yet once again I mean to prode thy skill in a jeſt:</l>
+                  <l>Which it thou doſt reſolve to me, thou ſetteſt thy mind at reſt.</l>
+                  <l>Whether was man created firſt before the beard or elſe.</l>
+                  <l>The beard before the man? that ſhew and thou ſhalt win the bells.</l>
+                  <l>
+                     <hi>Sol.</hi> All creature were created before man in their kind,</l>
+                  <l>And ſo was the bearded Geat, as we in books do find.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>In at window when I do look,</l>
+                  <l>(Beat not your brain long about this)</l>
+                  <l>Then in the houſe about I go,</l>
+                  <l>Now tell me quickly what is this?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>The ſhining of the Sun.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>There dweſs four ſiſters near this town,</l>
+                  <l>In favour like, and like in gown:</l>
+                  <l>When they run for a priſe to win,</l>
+                  <l>All at once they do begin:</l>
+                  <l>One runs as faſt as doth the other.</l>
+                  <l>Yet cannot overtake each other.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>The four wings of a Mill.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>When it through the wood doth go it toucheth every thing below?</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is Snow.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>When through the wood it goeth.</l>
+                  <pb facs="tcp:53600:4"/>
+                  <l>It toucheth never a thing forſooth.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A penny in a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>kns purſe.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>What is that moſt notches hath. within a houſe made of plate,</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>The hangers where the Pot-hooks hang upon.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I am ſoul to look unto,</l>
+                  <l>Yet many ſéek me for to win;</l>
+                  <l>Not for my beauty nor my skin.</l>
+                  <l>But for my wealth and force to know;</l>
+                  <l>Hard is my meat whereby I live,</l>
+                  <l>Yet I bring men to dainty fare:</l>
+                  <l>If I were not then, All Knights would</l>
+                  <l>Toſing this ſong ſo bold,</l>
+                  <l>Nutmeg, Ginger, Cinnomon, &amp; Cloves,</l>
+                  <l>They gave us this jolly red noſe.</l>
+                  <l>The fourth part of the Earth I ſhew,</l>
+                  <l>The Times and hours as they do go,</l>
+                  <l>As néedful am I to mankind,</l>
+                  <l>As any thing that they can find:</l>
+                  <l>Many do take me for their guide,</l>
+                  <l>Who otherwiſe would run aſide.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a Loadſtone, for without it no Pilate were able to guide a Ship in the Ocean Seas.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I am the chief ſtrength of the land,</l>
+                  <l>When upon four pillars I ſtand:</l>
+                  <l>And if theſe four ſhould fail indeed,</l>
+                  <l>Then can I find two more at need?</l>
+                  <pb facs="tcp:53600:5"/>
+                  <l>And the fifth ſhall not ſtand a ſide,</l>
+                  <l>Four lights I have to be my guide,</l>
+                  <l>For it is far brighter then the Sun,</l>
+                  <l>And doth remain when life is gone,</l>
+                  <l>And though one corps thrée heads it wear</l>
+                  <l>No Monſter yet it is I ſwear:</l>
+                  <l>Vnknit this knot and tell to me,</l>
+                  <l>At leiſure Sir, what I might be.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A horſ-man being on horſe-back, who hath four Eyes with thoſe of his horſe, and the fifth in his reaſonable ſoul, whereby he is chiefly guided, and is not ſubject unto death.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Six Hares did come within a plain whom hounds had ſtarted out of their neſt</l>
+                  <l>Hill up, hill down they came amain, till they were ready and did reſt;</l>
+                  <l>They caught him once and ſcapt again, more eager went they than before;</l>
+                  <l>And took more pain then (as I win) to bear away the gain and more,</l>
+                  <l>The hounds and hunters all were one, each liked his game, and took his prey:</l>
+                  <l>But when their ſport was paſt and done, they loſt their. Hares and came away.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>'Tis a match at Bowls playd in a Bowling-alley.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Ten mens length, and ten mens ſtrength, and ten men cannot break it.</p>
+               <pb facs="tcp:53600:5"/>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A cable rope which ten men can<g ref="char:EOLhyphen"/>not break by force.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>A man I was, a man I am:</l>
+                  <l>But yet as tame as any Lamb,</l>
+                  <l>Though I am blind, the way I ſhew,</l>
+                  <l>Which all that ſée muſt go:</l>
+                  <l>And to put your mind out of doubt,</l>
+                  <l>Eight I have that bear about,</l>
+                  <l>My burthen more then any hath,</l>
+                  <l>Vnleſs he be in my eſtate;</l>
+                  <l>In time therefore do learn of me,</l>
+                  <l>Is I before have done of thée.</l>
+                  <l>If he had known that brought my woe</l>
+                  <l>Ventured I had upon his foe,</l>
+                  <l>But for his fault we ſubject be,</l>
+                  <l>To this eſtate in which you ſée me:</l>
+                  <l>I am that which you leaſt deſtre,</l>
+                  <l>But yet that you ſhould moſt require,</l>
+                  <l>Gueſs what I am (good ſir) therefore,</l>
+                  <l>Before you do knock at the door.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>
+                  <hi>It</hi> is a dead man, and theſe four that do carry him to his grave, with <hi>Adam</hi> our firſt Parent, who brought death into the world.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>In open field <hi>I</hi> cannot lie,</l>
+                  <l>And yet <hi>I</hi> may reſt quietly,</l>
+                  <l>in a box of <hi>I</hi>vory.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>
+                  <hi>It</hi> is a feather in a windy day.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>
+                     <hi>I</hi> am as little as a nit,</l>
+                  <pb facs="tcp:53600:6"/>
+                  <l>And ſerves the King at every bit.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Salt.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Who wears his end about his midle Once in his time? tell me this riddle.</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A Thief, whoſe armes are tied with the halter, wherewith he ſhall be executed.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>My fleſh and skin is red,</l>
+                  <l>But white is all my heart,</l>
+                  <l>Where round about the wall is ſet,</l>
+                  <l>Beaten with every dart.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a cherry, and a cherry-ſtone:</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Yonder it is, and here I have it.</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A mans breath, or other living creatures.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What wight is he doth others féed,</l>
+                  <l>And yet himſelf doth dye for néed?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a preacher inſtructing others and doth quite contrary to his own doct<g ref="char:EOLhyphen"/>rine, and by that means ſtarveth his own Soul.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Tell me good ſir whom I might be;</l>
+                  <l>I Father I had, but Mother none:</l>
+                  <l>Yet many Mother have had of me,</l>
+                  <l>Who all to earth with me are gone.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Our firſt parent <hi>Eve</hi> who had no Mather, and no other Father but God Al<g ref="char:EOLhyphen"/>mighty.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What is moſt like a horſe.</l>
+                  <pb facs="tcp:53600:6"/>
+                  <l>(Beſides a Mare he means)</l>
+                  <l>That féedeth upon hay and grals,</l>
+                  <l>Vpon Peaſe and upon Beans.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol,</speaker>
+               <p>It is a Gelding.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>My husband gives two gowns to me</l>
+                  <l>Of ſundry colours every year</l>
+                  <l>Gréen is the one which I do wear,</l>
+                  <l>So long till it be all thread bear;</l>
+                  <l>White is the other s the Sun,</l>
+                  <l>Of many pieces up and down:</l>
+                  <l>Yet like to that few work men can.</l>
+                  <l>Deviſe to make another gown,</l>
+                  <l>The witer ſort, wherein they dote,</l>
+                  <l>Do call me fool upon a toy,</l>
+                  <l>But yet of me they make a note:</l>
+                  <l>That death is paſt when I do joy.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a Mulbery-trée gréen in the ſummer, and white with ſnow in the win<g ref="char:EOLhyphen"/>ter, which in Latin is cal'd <hi>Morus,</hi> which ſigniſteth in Gréek, a fool: it is a trée of this nature, that it will not caſt any buds before all other trées have, whereby we certainly know when ſhe begins to bud that the cold and winter is altogether paſt for that preſent ſeaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>A Ship there drives upon the tide,</l>
+                  <l>That Sails doth bear and hath no maſt,</l>
+                  <l>An oar ſhe had on each ſide,</l>
+                  <l>And doth the Snow in whiteneſs paſs,</l>
+                  <pb facs="tcp:53600:7"/>
+                  <l>In her front wears two lanthorns bright,</l>
+                  <l>but when ſhe is upon point to fall,</l>
+                  <l>Then lend an ear, for great delight,</l>
+                  <l>of Muſick ſhe affords to all.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a Swan, who being near her death ſings moſt ſwéetly, as Authours do record.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Round I am, yet cannot reſt,</l>
+                  <l>When <hi>I</hi> am ſpited of the beſt.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A tennits ball, when two good play<g ref="char:EOLhyphen"/>ers play together.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What man is he of wit ſo baſe,</l>
+                  <l>That wears both his eyes in a caſe,</l>
+                  <l>For fear of hurting them it is,</l>
+                  <l>And <hi>I</hi> do find it not amiſs.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is he that cannot ſée well with<g ref="char:EOLhyphen"/>out Spectacles and doth carry them about him in a caſe for fear of breaking them.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>My prey <hi>I</hi> ſéek in fields and Woods about,</l>
+                  <l>And have more téeth than beaſts within the land,</l>
+                  <l>And whenſoever my game I have found out.</l>
+                  <l>Then ſate <hi>I</hi> bring it to my Maſters hand</l>
+                  <l>Vpon my back the Déer he lays,</l>
+                  <l>And there doth ſometime more,</l>
+                  <l>He ſhuts me up and goes his ways,</l>
+                  <l>Better contented than before.</l>
+               </lg>
+               <pb facs="tcp:53600:7"/>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a comb, and a louſe kil'd up<g ref="char:EOLhyphen"/>on the back of it.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>A trée there is that boughs doth bear</l>
+                  <l>In number five as <hi>I</hi> do know,</l>
+                  <l>Of equal length they never were,</l>
+                  <l>And on their tops do horns grow</l>
+                  <l>Yet they are tied about with gold,</l>
+                  <l>Except the longeſt without doubt:</l>
+                  <l>Which for uſe ſake may be controul'd,</l>
+                  <l>If it with Gold were hoopt about.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is ones hand, and his finger that are full of Gold Rings, the middle moſt except, becauſe a Ring doth not fit that finger.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>
+                     <hi>I</hi> was not, <hi>I</hi> am not, and ſhall not be,</l>
+                  <l>yet <hi>I</hi> do walk as men may ſée,</l>
+                  <l>
+                     <hi>I</hi> run and ſpeak to get a fée,</l>
+                  <l>though <hi>I</hi> am not in any degrée.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It was a man whoſe Sirname was Not.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Deaf <hi>I</hi> am and cannot hear,</l>
+                  <l>and when <hi>I</hi> work <hi>I</hi> féel no pain:</l>
+                  <l>Some do curſe me, ſome ſpeak me fair,</l>
+                  <l>though well <hi>I</hi> know it is in vain.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Dice and Dicers.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>In what place of the Earth,</l>
+                  <l>doth the skie ſéem to be,</l>
+                  <l>No broader than a yard or twain?</l>
+                  <l>
+                     <hi>I</hi> pray thée tell me.</l>
+                  <pb facs="tcp:53600:8"/>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>In the bottom of a well.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>A thing I take and that I loſe,</l>
+                  <l>yet nothing to my woe,</l>
+                  <l>And that I took not, that I kéep,</l>
+                  <l>yet would it fain forge,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>He that is all lowſie, thoſe licd which he takes he throws them away, and th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that he cannot take he kéeps them ſtill, and yet would fain be rid of them.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What thing is only upon the ear<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>not ſubject unto fear:</l>
+                  <l>Nor doth not weigh the threatnings</l>
+                  <l>of tyrants pin or hair?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a good Conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What doth with the root upwards grow,</l>
+                  <l>And downwards with his head doth ſhew.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is an Iſicle.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What is leſſer than a Mouſe,</l>
+                  <l>And hath more windows then a Houſe?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a Spider in the midſt of his web, or elſe a thimble.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I do walk, yet I do not go,</l>
+                  <l>I do drink, yet no thurſt ſlack,</l>
+                  <l>I do eat yet not féed,</l>
+                  <l>I do walk yet no work make.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a man that dreams, who in his dream ſéems to do all theſe things, and intéed does none of them.</p>
+               <pb facs="tcp:53600:8"/>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Is bitter as gall,</l>
+                  <l>As ſwéet as milk,</l>
+                  <l>As high as a hall, and hard withal,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a Walnut upon a Trée.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I am no fiſh, nor fleſh, nor voice,</l>
+                  <l>Yet when I am born I make a noiſe;</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>I Fart, or elſe Thunder.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>When we by the way do go,</l>
+                  <l>Vpon our ſhoulders we do bear away,</l>
+                  <l>If we were not, then many ſhould be ſo</l>
+                  <l>Wet to the skin in a rainy day.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Maſons, Tylers, and men of ſuch like occupation, carrying ladders upon their ſhoulders, to build and tile houſes.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>
+                     <hi>M.</hi> and <hi>I.</hi> made great moan,</l>
+                  <l>When <hi>C.</hi> upon <hi>C.</hi> was left alone;</l>
+               </lg>
+               <p>
+                  <hi>
+                     <hi>Sol.</hi> Mary</hi> and <hi>John</hi> made great moan, when Chriſt upon the Croſſe was left a<g ref="char:EOLhyphen"/>lone:</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>When I to the wood doth go,</l>
+                  <l>Then my head forward I do ſhow.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is an Ax.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>In me are many ſhining lights.</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a burning Candle.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>In the laſt minute of mine age,</l>
+                  <l>I do wax young again.</l>
+                  <l>And have ſo ſtill continued,</l>
+                  <l>Since the world did firſt begin.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is the Moon.</p>
+               <pb facs="tcp:53600:9"/>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I do owe moſt yet nothing pay,</l>
+                  <l>Evil I am the worſt I ſay.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Ingratitude, which monſter recei<g ref="char:EOLhyphen"/>veth good turns and payeth Vengeance.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What men are thoſe that back<g ref="char:EOLhyphen"/>wards gain,</l>
+                  <l>Their ſmall living not without pain.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Gardners and Rope-makers.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Old <hi>I</hi> am when I was born,</l>
+                  <l>And when I am hatcht take héed of me,</l>
+                  <l>Or elſe thou mayſt ſoon be forlorn,</l>
+                  <l>If thou doſt nothing look to thée.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>The grudg of a ſecret enemy long conceived in mind ere it vs put in execu<g ref="char:EOLhyphen"/>tion</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Hitty titty within the wall,</l>
+                  <l>And hitty titty without the wall,</l>
+                  <l>If you touch hitty titty my joy,</l>
+                  <l>Hitty titty will vite the boy.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a nettle.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Chink clunk under a bank,</l>
+                  <l>Ten about four near the flank.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A maid milking of a Cow.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Tip tap in a gap,</l>
+                  <l>As many féet as a hundred ſhéep.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is Hail when it falls.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>A wicked Father did beget,</l>
+                  <l>A daughter fit unto his hand:</l>
+                  <l>But ſuch good children ſhe did get,</l>
+                  <pb facs="tcp:53600:9"/>
+                  <l>That are the drops of every Land,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>The Devil begat ſin, and ſin pro<g ref="char:EOLhyphen"/>cured good Laws, which are the ſtayes of all governments.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Godſ-peed fair Ladyes,</l>
+                  <l>I am ſent I cannot till to whom,</l>
+                  <l>And I do bring I cannot tell what,</l>
+                  <l>I count her wiſe that tells me that.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A lover ſent to his love a meſſenger to put her in mind of her promiſe as to come unto him, and ſhe ſent back this an<g ref="char:EOLhyphen"/>ſwer unto him.</p>
+               <l>Tell thy Maſter in my Name,</l>
+               <l>When trées are turned and wells be dry,</l>
+               <l>And dead with quick, then come I.</l>
+               <p>Meaning at midnight, when firebrands ſhould be turned upwards, the pots ſhould be empty, and the fire raked up with the cold aſhes, then ſhe would come.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I know a child born of my mother,</l>
+                  <l>natural as other children be.</l>
+                  <l>That is neither my ſiſter nor my brother</l>
+                  <l>anſwer me ſhortly what is he?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is the perſon that ſpeaketh the word, for he is neither brother nor ſiſter to himſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I have a ſmith without a hand;</l>
+                  <l>That doth the work that no man can:</l>
+                  <l>He forgeth bonds, and do men eaſe,</l>
+                  <pb facs="tcp:53600:10"/>
+                  <l>Without any fire in his furnace?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a Bée that maketh Honey and Wax.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What is that in the morning</l>
+                  <l>upon four legs doth go;</l>
+                  <l>About noon ſtandeth faſt</l>
+                  <l>upon two and no more;</l>
+                  <l>In the evening again it hath</l>
+                  <l>no leſs than thrée in ſtore:</l>
+                  <l>Which tell me Sir, art thou not he,</l>
+                  <l>whom I do take thée for?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a man; for when he is a child then he doth créep upon hand and féet, but when be is a man, then he ſtandeth ſtrait upon two legs, when he is old &amp; decrepit beſides his legs, then he uſeth a Staff to ſupport his body. This riddle gave <hi>Sphinx</hi> a Serpent, ts the paſſengers that went by her den: amp; thoſe that could not reſolve it, them ſhe devoured, and ſo <hi>Oepidus</hi> at laſt paſſing by &amp; having reſolv'd the doubt, did rid his Country of this evil incorporate.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>As reund as any hoop I am,</l>
+                  <l>moſt part when it is day:</l>
+                  <l>But being night then am I long,</l>
+                  <l>as any ſpa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e I ſay.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a womans girdle which ſhe wears about her middle.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I eate my nurſe and féeds me full,</l>
+                  <pb facs="tcp:53600:10"/>
+                  <l>Conſume my mother that bears me ſtill,</l>
+                  <l>And I am ſuch unthankful wight,</l>
+                  <l>That when I dye and loſe my ſight,</l>
+                  <l>I make all blind that do delight.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>The Sun.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I am cal'd by the name of man,</l>
+                  <l>Yet am as little as a mouſe;</l>
+                  <l>When winter comes I love to be,</l>
+                  <l>With my red gorget near the houſe.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A Bird called <hi>Robin Red-breſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Although my body ittle is,</l>
+                  <l>yet I do pleaſe the hearers ear:</l>
+                  <l>If <hi>I</hi> were tane it were not amiſs,</l>
+                  <l>then I could live in leſſer fear.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>The Nightingale.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What is it more eyes doth wear,</l>
+                  <l>then forty men within the Land;</l>
+                  <l>Which gliſter like the Chryſtal clear</l>
+                  <l>againſt the Sun when they do ſtand.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A Peacocks tail.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>When I go to the water ſide,</l>
+                  <l>at home I leave my heart behind.</l>
+                  <l>Tell me what I am without pride,</l>
+                  <l>if it by any means you find.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a Pillow-bear.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>My head is round my body ſmall,</l>
+                  <l>yet I am that which favours all.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is Pepper and Salt.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Head and eyes I am onely,</l>
+                  <pb facs="tcp:53600:11"/>
+                  <l>What I may be tell me.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A button of Copper or Mettal.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>A bird upon the houſe I ſaw.</l>
+                  <l>Six legs it had yet but one tayl,</l>
+                  <l>Two legs more then a Daw,</l>
+                  <l>Name me this Bird and win the Ale.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A Hearnſhow had taken a Frog, and brought in to her young ones in the neſt, made upon the top of the houſe.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>All my body belly is,</l>
+                  <l>and leſſer then my mouth is not:</l>
+                  <l>I do contain what makes man mad,</l>
+                  <l>What I am Sir, pray tell me that?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A Malt-ſack full of Malt where<g ref="char:EOLhyphen"/>with ſtrong drink is brewed.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>My belly is bigger then all the reſt,</l>
+                  <l>Where men uſe to put the beſt,</l>
+                  <l>Broad is my foot ſhort is my neck,</l>
+                  <l>If ill you uſe me fear a check.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A bottle made of Glaſs.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>My coat is gréen and I can prate,</l>
+                  <l>Of divers things about my grate,</l>
+                  <l>In ſuch a priſon I am ſet,</l>
+                  <l>That hath more loop-hole then a net.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A Parrat in a Cage of Wire.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>I do aſſemble many a wight,</l>
+                  <l>yet I kéep me out of their eye,</l>
+                  <l>And do once come in their ſight,</l>
+                  <l>yet every day they may ſée me,</l>
+               </lg>
+               <pb facs="tcp:53600:11"/>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A Bell towling to a Sermon.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>What Mill is that hath two win,</l>
+                  <l>which fly about with the wind,</l>
+                  <l>A greaſie Miller looks to all things,</l>
+                  <l>whiles it doth turn and doth not grind.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a <hi>Jack,</hi> and a greaſie Miller is the Cook.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>It is no bigger than a Plumb,</l>
+                  <l>And yet ſerves the King,</l>
+                  <l>From Town to Town.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is an Eye,</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>It was not, nor is not,</l>
+                  <l>nor never will be,</l>
+                  <l>Hold up your hand</l>
+                  <l>And you ſhall ſée.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is the little finger, that was not, nor is not, nor will it be ſo great as the reſt of the fingers.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>Down in the yard <hi>I</hi> have thrée ſwine</l>
+                  <l>The more meat I give them,</l>
+                  <l>the louder they cry,</l>
+                  <l>The leſſer I give them,</l>
+                  <l>the ſtiller they lye.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is thrée Mills.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <lg>
+                  <l>There dwels a ſhoomaker néer the hall</l>
+                  <l>That makes his ſhooes without an awl,</l>
+                  <l>They that buy of them, do not wear</l>
+                  <l>Yet men of them have many a pair.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>It is a Smith, that makes ſhooes for Horſes.</p>
+               <pb facs="tcp:53600:12"/>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>Riddle me, riddle me what is this? Two legs ſate upon thrée, with one leg in his hand, in came four legs and ſnatcht away one leg, then upſtarts two legs, and flung thrée legs at four legs, and ſo got one leg again.</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>A man ſitting upon a thrée footed ſtool, with a leg of Mutton in his hand, a dog came and ſnatcht it from him, and he flung a thrée footed ſtool at the dog, and ſo got the leg of Mutten again.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>I have a Meadow and in that Mea<g ref="char:EOLhyphen"/>dow are ten Oaks, under every Oke are ten Coats, and in every Coat are ten S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ws, and every Sow hath ten Pigs, tell me ho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> many Pigs will be of theſe.</p>
+            </sp>
+            <sp>
+               <speaker>Sol.</speaker>
+               <p>Ten thouſand.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="woodcuts">
+            <pb facs="tcp:53600:12"/>
+            <p>
+               <figure>
+                  <figDesc>four representations of men, one a seated king, with orb and sceptre</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:53600:13" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>a man walking</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
